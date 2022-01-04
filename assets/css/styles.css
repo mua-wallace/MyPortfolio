@@ -375,10 +375,11 @@ header {
 /* footer */
 
 .footer{
-    background: #1111;
+    background: rgb(10, 10, 10);
     color: var(--clr-accent);
     text-align: center;
-    padding: 2.5em 0; 
+    padding: 2.5em 0;
+    font-size: var(--fs-h3); 
 
 }
 .footer a {
@@ -403,10 +404,10 @@ header {
     margin: 2em 0 0 ;
     padding: 0;
 } 
-.social__list__item {
+.social-list__item {
     margin: 0 .5em;
 }
-.social__list__link {
+.social-list__link {
     padding: .5em;
 }
 /* Ready to get started with Lemon Wares? */
